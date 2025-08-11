@@ -5,6 +5,24 @@
 **Primary:** Vision  
 **Secondary:** HealthTech  
 
+### Setup/run instructions
+## 🖥️ Setup & Run Instructions
+1. Clone the repository:  
+```bash
+git clone https://github.com/AmaanSayyad/Eye-Writer.git
+```
+
+2. Navigate to the project folder:
+```bash
+cd https://github.com/AmaanSayyad/Eye-Writer/blob/main/10).Write_Using_Your_Eyes.py
+```
+3. Run the py file
+
+### Demo Video: https://youtu.be/mttRzOlXo_s
+
+## Team Member
+- **Amaan Sayyad** – [@AmaanSayyad] – Project Lead, Developer, AI Integration  
+
 ## 📖 Project Overview
 The **AI Eye-Writer** is an AI-powered gaze-controlled virtual keyboard designed to enable people with severe physical disabilities—such as quadriplegia, ALS, or neuromuscular disorders—to communicate using only their eye movements and blinks.  
 
