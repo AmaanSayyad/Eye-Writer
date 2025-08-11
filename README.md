@@ -60,7 +60,6 @@ This solution is:
 6. **Letter Selection** – Blink to confirm; text appears on screen.
 
 ## 🛠 Technologies Used
-- **Frontend:** Next.js 15, Tailwind CSS
 - **Backend:** Python, OpenCV, dlib, Numpy, Pandas, Matplotlib, Sklearn
 - **Other:** Winsound (auditory feedback for Windows), GitHub PR workflow, PyCharm Community
 
